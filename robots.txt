@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-lab-x.github.io/uk-tax-year-changes/sitemap.xml
